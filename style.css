@@ -1,0 +1,9 @@
+.hipster-img {
+    filter: blur(2px);
+}
+
+.page-back {
+    position: fixed;
+    height: 100vh;
+    z-index: -100;
+}
